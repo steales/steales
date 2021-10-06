@@ -5,7 +5,7 @@
 
 - I am very based and I code stuff and etc. Prefered contact method is discord but my email is steales@yahoo.com.
 
-- I’m currently working on [StealesWare](https://github.com/stealesware)
+- I’m currently working on **Harmonic Client**
 
 - How to reach me **steales#0001 on Discord**
 
