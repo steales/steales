@@ -7,7 +7,7 @@
 
 - I’m currently working on multiple different projects
 
-- How to reach me **steales#0001 on Discord**
+- How to reach me: **[ steales. ] on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
