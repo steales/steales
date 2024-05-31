@@ -1,6 +1,5 @@
 <h1 align="center">I'm steales</h1>
-<h3 align="center"><img src="https://y2k.neocities.org/blinkiez/newbatch/blinkiesmile.gif
-"/></h3>
+<h3 align="center">![](https://github.com/steales/steales/IMG_1560.gif)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=steales&label=Profile%20views&color=0e75b6&style=plastic" alt="steales" /> </p>
 
